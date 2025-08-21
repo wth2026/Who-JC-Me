@@ -6,3 +6,5 @@
 Upd on 2025/8/21
 
 目前功能：不停的拍照保存直到程序关闭，仅保存一段时间内的图片，以免消耗空间过大
+
+![](https://www.star-history.com/#wth2026/Who-JC-Me&Date)
